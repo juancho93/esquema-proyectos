@@ -1,60 +1,40 @@
-"Nombre del proyecto"
+Directorio de Artistas
 ====================
-
-Sustituya con el nombre del proyecto.
-
 
 Breve historia del proyecto
 ---------------------------
 
-Redacte cómo es que se llega a conocer del proyecto y quienes son
-las personas involucradas en el mismo, además de una breve descripción de qué
-actividades serán las que se automatizarán con el sistema.
+El proyecto de crear un Sistema Web que contenga un directorio de Artistas
+nace de la idea del ingeniero Dhaby Xiloj que imparte el curso de Analisis 
+y Disenio II, la cual a nosotros (Estudiantes) se nos propone como proyecto del
+curso la cual consiste en diseniar un sistema que permita a las personas 
+acceder a cierta informacion de los artistas quetzaltecos y que puedan interactuar
+con ellos. Y de esta manera los artistas se daran a conocer de mejor manera,
+las personas podran ver sus trabajos, el campo en el que trabajan, y las actividades
+que estos desarrollen, tales como talleres, exposiones, etc.
 
-Se debe de enfocar siempre los beneficios que traerá la aplicación a la empresa
-al momento de estar ya en funcionamiento.
+Este sistema permitira a los administradores obtener de forma automatica las
+estadisticas de cuantos eventos los artistas crean en un cierto tiempo en el 
+departamento, Los quetzaltecos podran consultar eventos proximos que se realizen
+en el departamento a cualquier hora y que puedan asistir.
 
-Debe de tomar en cuenta que el proyecto se refiere al trabajo de análisis
-del sistema, ya que la descripción del sistema se hará mas adelante.
+Centro Cultural Casa No'j
+-------------------------
 
-
-Empresa a la que se dirige el sistema
--------------------------------------
-
-Sustituya el título con el nombre de la empresa a la que se dirige el proyecto.
-
-Coloque una breve descripción de lo que haya comprendido sobre lo que realice
-la empresa.
+El Centro Cultural se dedica a organizar eventos.
 
 
 Misión del proyecto
 -------------------
 
-Describa de la mejor manera la misión del proyecto o aplicación a realizar.
+La mision del proyecto es recolectar y proporcionar datos confiables al Centro 
+Cultural para la toma de decisiones.
 
 
 Objetivos del proyecto
 ----------------------
 
-Enliste los objetivos del proyecto, estos deben de ir de acuerdo a la misión
-del proyecto y cumplir con los requerimientos de SMART
-
-* Specific
-
-  * Específicos
-
-* Measurable
-
-  * Medibles
-
-* Attainable
-
-  * Alcanzable
-
-* Realistic
-
-  * Realistas
-
-* Timely
-
-  * Delimitado en un tiempo
+Recabar informacion para obtener la popularidad de los artistas en un tiempo dato.
+Que eventos interesan mas a los quetzaltecos, para la toma de decisiones.
+Reducir el tiempo para encontrar a un artista en especifico.
+Aumentar la popularidad de los artistas.
