@@ -1,6 +1,7 @@
-#Directorio de Artistas
-
-##Descripción General
+Directorio de Artistas
+======================
+Descripción General
+-------------------
 
 El Proyecto consiste en desarrollar un sistema web la cual contendra un directorio
 donde los artistas puedan registrarse y crear un perfil dentro del sistema a parte
