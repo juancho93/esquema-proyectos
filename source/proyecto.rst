@@ -3,50 +3,69 @@ Directorio de Artistas
 Descripción General
 -------------------
 
-El Proyecto consiste en desarrollar un sistema web la cual contendra un directorio
-donde los artistas puedan registrarse y crear un perfil dentro del sistema a parte
-de contar con un perfil el artista podra crear y postear eventos proximos a realizarse
-pero esta informacion necesitara el permiso del administrador del sistema para que
-se muestre en la pagina, el administrador verificara la informacion y el decidira si
-esta se muestra al publico o no.
-El sistema sera manejado por el Centro Cultural Casa No'j, los encargados de administrar
-la informacion seran los del departamento de Comunicacion, Secretaría y el Administrador
-Los que alimentaran el sistema con informacion para los quetzaltecos seran los artistas, 
-cada vez que realicen un evento lo publicaran en la pagina para que las personas lo puedan
-ver y puedan asistir a dicho evento.
+El Proyecto consiste en desarrollar  un sistema web la cual contendrá un directorio
+donde los artistas puedan  registrarse y crear un perfil dentro del sistema a parte
+de contar con un perfil, el artista podrá crear  y postear eventos próximos pero la
+información necesitará el permiso del administrador del sistema para que se muestre 
+en la página.  El administrador  verificará la informacion y el decidirá si esta se 
+muestra al público o no.
 
-Modulos
+El sistema será manejado por el  Centro Cultural Casa No'j,  los encargados de este 
+centro administrarán la informacion, acceder permisos publicar contenidos serán los 
+del departamento de Comunicaciones,  Secretaría y el  Administrador quien tendrá la 
+última palabra y será el responsable del contenido publicado.
+
+Otros actores que interactuarán con el sistema alimentandola  con eventos seran los 
+artistas. Cada vez  que un artista crea un nuevo  evento  mandará la solicitud para 
+que se publique en la página, dicha  solicitud sera respondida en un lapso de 24 h.
+Para que las personas lo puedan ver y puedan asistir a dicho evento.
+
+Módulos
 =======
 
 
-Login
------
-Servira para que el artista o administradores puedan loguearse cada uno tendra ciertos
-privilegios.
+Gestión de Usuarios
+-------------------
+1) Login																		  
+La pantalla log mostrará dos cajas de texto en la primera caja de texto colocaremos 
+nuestro nombre de usuario y en la  segunda nuestra contraseña. Harán uso de ella el 
+administrador y los artistas.
+
+2) Crear Usuario
+Esta pantalla  servirá para que un nuevo artista pueda registrarse en el directorio
+
+3) Eliminar Usuario
+Esta pantalla le será útil al administrador al momento de eliminar a un artista que 
+ha estado inactivo durante mucho tiempo. 
+
+4) Editar/Actualizar Usuario
+Tanto el administrador y los artistas podran editar algun dato de su perfil, podrán
+actualizar su correo, número de telefono, etc.
+
 
 Directorio
 ----------
-Este modulo contendra informacion basica de los artistas, sus trabajos.
+1) Categoría																	  
+Los artistas estarán categorizados  para facilitarle la búsqueda al visitante se le
+mostrara la informacion basica del artistas y sus trabajos.
 Los usuario podran buscar a los artistas en este modulo.
 
-Perfil
-------
-En este modulo se mostrara el perfil del artista, contendra informacion especifico
-de dicho artista, fotos de él, de su trabajo, informacion con la cual el visitante
-pueda contactar.
+2) Perfil
+Acá se mostrará el perfil del artista, contendrá información específica del artista 
+fotos de él, de su trabajo, un 	historial de los eventos que ha  creado ultimamente 
+información con la cual el visitante pueda contactar.
 
 
-Categoria
----------
-Esta modulo servira para categorizar a los artistas, por ejemplo, las categorias de Dibujo,
-Musica, Poesia, etc. Para que a los visitantes se les haga mas facil la busqueda de los artistas.
+Eventos Posteados
+-----------------
+Este módulo contendrá los eventos creados por los diferentes artistas y posteado por 
+los administradores.
 
-Poster Eventos
---------------
-Este modulo contendra los eventos creado por los artistas y posteado por los administradores. 
+1) Carteleras
+Contendrá información del evento.
 
-Capsulas
---------
-Estas contendra informacion de tipo cultural para que la personas las lean y se informen 
-estas capsulas seran de tipo educativo, creada por los administradores del sistema.
+2) Capsulas
+Estas pequeñas capsulas contendrán informacion de tipo cultural para que la personas 
+las lean y se informen.  Estas cápsulas seran de  tipo educativo, creada y publicada 
+por los administradores del sistema.
 
