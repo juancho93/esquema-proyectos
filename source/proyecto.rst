@@ -26,6 +26,7 @@ Módulos
 
 Gestión de Usuarios
 -------------------
+.. image:: images/caso1.png
 1) Login																		  
 La pantalla log mostrará dos cajas de texto en la primera caja de texto colocaremos 
 nuestro nombre de usuario y en la  segunda nuestra contraseña. Harán uso de ella el 
