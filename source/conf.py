@@ -31,8 +31,9 @@ import os
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.mathjax',
+    'rst2pdf.pdfbuilder',
 ]
-
+pdf_documents = [('index', u'Directorio', u'Directorio de Artistas', u'Juan Mejía'),]
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
@@ -265,3 +266,4 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+

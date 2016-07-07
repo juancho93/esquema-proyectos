@@ -26,7 +26,7 @@ Módulos
 
 Gestión de Usuarios
 -------------------
-.. image:: images/caso1.png
+.. image:: ../images/gestionUsuarios.png
 1) Login																		  
 La pantalla log mostrará dos cajas de texto en la primera caja de texto colocaremos 
 nuestro nombre de usuario y en la  segunda nuestra contraseña. Harán uso de ella el 
@@ -46,6 +46,7 @@ actualizar su correo, número de telefono, etc.
 
 Directorio
 ----------
+.. image:: ../images/directorio.png
 1) Categoría																	  
 Los artistas estarán categorizados  para facilitarle la búsqueda al visitante se le
 mostrara la informacion basica del artistas y sus trabajos.
@@ -57,16 +58,15 @@ fotos de él, de su trabajo, un 	historial de los eventos que ha  creado ultimam
 información con la cual el visitante pueda contactar.
 
 
-Eventos Posteados
------------------
-Este módulo contendrá los eventos creados por los diferentes artistas y posteado por 
-los administradores.
+Noticias/Novedades
+------------------
+.. image:: ../images/noticias.png
 
-1) Carteleras
-Contendrá información del evento.
+1) En el sitio Web...
+	a) Se incluirá una seccion de Noticias en la cual se postean eventos. Se muestra un título, autor, fecha, categoría, descripción, lugar, hora. 
+	b) En el sitio web se podrá ordenar dichas noticias de acuerdo a su preferencia (día, categoría, título, autor, etc).
 
-2) Capsulas
-Estas pequeñas capsulas contendrán informacion de tipo cultural para que la personas 
-las lean y se informen.  Estas cápsulas seran de  tipo educativo, creada y publicada 
-por los administradores del sistema.
+2) En la página de administración usted accede a..
+	a) Cargar las noticicas o darla de baja
+	b) Agruparlas por categoría.
 

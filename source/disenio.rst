@@ -3,9 +3,11 @@ Diseño de la aplicacíon
 
 Casos de Uso
 ------------
+.. image:: ../images/caso1.png
+.. image:: ../images/gestionUsuarios.png
+.. image:: ../images/directorio.png
+.. image:: ../images/noticias.png
 
-Se colocan los distintos casos de uso, tanto para la aplicación general como para
-cada módulo.
 
 Clases
 ------
