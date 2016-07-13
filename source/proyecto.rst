@@ -26,7 +26,12 @@ Módulos
 
 Gestión de Usuarios
 -------------------
-.. image:: ../images/gestionUsuarios.png
+Este módulo se encargará de gestionar a los diferentes tipos de usuario. En este modulo
+se podra crear usuarios, editarlos, eliminarlos, proporcinarles privilegios. restringir
+acceso a ciertos módulos para que un usuario ordinario no pueda manipular el sisttema 
+alterandola.
+En este Módulo encontraremos las siguientes pantallas. 
+
 1) Login																		  
 La pantalla log mostrará dos cajas de texto en la primera caja de texto colocaremos 
 nuestro nombre de usuario y en la  segunda nuestra contraseña. Harán uso de ella el 
@@ -46,11 +51,14 @@ actualizar su correo, número de telefono, etc.
 
 Directorio
 ----------
-.. image:: ../images/directorio.png
+En este modulo estaran todos lo artistas registrados separados en categorías para que 
+los usuarios "Visitantes" puedan encontrarlos de una manera rápida y fácil.
+En este Módulo encontraremos las siguientes pantallas. 
+
 1) Categoría																	  
 Los artistas estarán categorizados  para facilitarle la búsqueda al visitante se le
-mostrara la informacion basica del artistas y sus trabajos.
-Los usuario podran buscar a los artistas en este modulo.
+mostrará la informacion basica del artistas y sus trabajos.
+Los usuarios podrán buscar a los artistas en este módulo.
 
 2) Perfil
 Acá se mostrará el perfil del artista, contendrá información específica del artista 
@@ -60,13 +68,15 @@ información con la cual el visitante pueda contactar.
 
 Noticias/Novedades
 ------------------
-.. image:: ../images/noticias.png
+En este módulo se mostrarán las noticias, eventos que los artistas irán creando y los que
+el administrador postee. Este modulo tambien contendrá las capsulas informativas, novedades
+carteleras. El trabajo de este modulo sera informar.
 
-1) En el sitio Web...
+1) En el sitio Web
 	a) Se incluirá una seccion de Noticias en la cual se postean eventos. Se muestra un título, autor, fecha, categoría, descripción, lugar, hora. 
 	b) En el sitio web se podrá ordenar dichas noticias de acuerdo a su preferencia (día, categoría, título, autor, etc).
 
-2) En la página de administración usted accede a..
+2) En la página de administración usted accede a
 	a) Cargar las noticicas o darla de baja
 	b) Agruparlas por categoría.
 

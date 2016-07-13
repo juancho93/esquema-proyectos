@@ -3,18 +3,19 @@ Diseño de la aplicacíon
 
 Casos de Uso
 ------------
-.. image:: ../images/caso1.png
+
+Módulo Gestión de Usuarios
+
 .. image:: ../images/gestionUsuarios.png
+
+Módulo Directorio
+
 .. image:: ../images/directorio.png
+
+Módulo Noticias
+
 .. image:: ../images/noticias.png
-
-
-Clases
-------
-
-Diagramas de clases y de sus distintas actividades, si fuese necesario.
 
 Diagrama de BD
 --------------
-
-Diagrama de la Base de Datos que requerirá el software.
+.. image:: ../images/diagrama.png

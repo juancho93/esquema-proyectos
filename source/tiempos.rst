@@ -4,31 +4,44 @@ Desarrollo del proyecto
 Cómo se trabajará
 -----------------
 
-Explicación de cómo se trabajará la aplicación, como ciclo de vida, prototipos,
-etc.
+El proyecto será desarrollado utilizando el modelo de Desarrollo iterativo Creciente.
+La idea principal detrás de este modelo es desarrollar un sistema de programas de 
+manera imcremental, permitiéndonos sacar ventaja de lo que se ha aprendido a lo largo
+del desarrollo actual, incrementando, versiones entregables de este sistema.
 
 Actividades a realizar
 ----------------------
 
-Listado de actividades importantes que el cliente debe de tener en cuenta, como por
-ejemplo, el análisis, la implementación, capacitaciones, etc.
+1) Entrevista
+Esta consiste en tomar los requisitos tecnicos, objetivos, mision del proyecto. De ser
+necesario se realizará mas de una entrevista.
+
+Siguiendo el modelo iterativo, la primera actividad a realizarse es:
+2) Etapa de inicialización
+En esta etapa se crea una version del sistema. La meta de esta etapa es crear un sistema con el que
+el usuario pueda interactuar.
+
+3) Etapa de iteración 
+En esta etapa se realiza el rediseno, para alcanzar metas de confiabilidad, eficiencia y eficacia.
+
 
 Entregables
 -----------
 
-Se listan y se describen cada uno de los elementos que se entregarán al final
-del proyecto, como código fuente, manuales, etc.
+1) Manual de Administrador
+Se detalla todas las acciones que puede realizar el administrador.
+2) Manual de Usuario Artista
+Se detalla el papel del usuario comun, como interactuará con el sistema.
+3) Dirección del sistema web.
+Acceso al sistema web.
+
 
 Tabla de tiempos y costos
 -------------------------
-
-Se crea una tabla de tiempos estipulados de desarrollo al igual que los costos,
-pero en el caso del proyecto solamente se colocarán los tiempos, ya que la
-evaluación de costos se verá en otros cursos mas adelante.
+.. image:: ../images/tiempos.png
 
 Condiciones
 -----------
 
-Condiciones legales, administrativas o de otra índole que el cliente debe de
-tomar en cuenta para la realización del proyecto, como fechas de pago, licencias,
-requerimientos, etc.
+1) Ya que este es un sistema web, el costo del host lo pagará el cliente.
+
